@@ -1,1 +1,2 @@
 # odin-recipes
+For this project I will be building a website to display the knowledge I have gained from html. This site will include links, images and lists (ordered and unordered) and the type of website is a website for recipes.
